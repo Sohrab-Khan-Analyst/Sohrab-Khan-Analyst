@@ -1,3 +1,7 @@
+
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/6e9b05fd-dcd5-4e9a-a20f-01de1d448bc0)
+
+
 # Hi 👋, I'm Sohrab Khan.
 
 __A graduate with a focus on data analysis and business intelligence. Skilled in Python, SQL, MS Excel, Power BI and Tableau.__
