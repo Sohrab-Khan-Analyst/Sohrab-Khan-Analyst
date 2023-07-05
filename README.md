@@ -22,15 +22,11 @@
 <br>
 
 🌱 My __Portfolio Projects__ are: 
-- '[__Python__](https://github.com/Sohrab-Khan-Analyst/Python-PortfolioProjects)'
-- '[__SQL__](https://github.com/Sohrab-Khan-Analyst/SQL-PortfolioProjects)'
-- '[__Excel__]()'
 
-<br>
+| Python | SQL Server | Excel  | Power BI | Tableau |
+|-------------------------|-------------------------|----------------|------------------|------------------|
+| [Python Projects](https://github.com/Sohrab-Khan-Analyst/Python-PortfolioProjects) | [SQL Projects Projects](https://github.com/Sohrab-Khan-Analyst/SQL-PortfolioProjects) | [Excel Projects](https://github.com/Sohrab-Khan-Analyst/Python-PortfolioProjects) | [Power BI Projects](https://www.novypro.com/profile_projects/sohrabkhan) | [Tableau Projects](https://public.tableau.com/app/profile/sohrab.khan.) |
 
-👨‍💻 My __Tableau__ Projects are at: '[Tableau](https://public.tableau.com/app/profile/sohrab.khan.)'
-
-👨‍💻 My __Power BI__ Projects are at: '[Power BI](https://www.novypro.com/profile_projects/sohrabkhan)'
 
 <br>
 
