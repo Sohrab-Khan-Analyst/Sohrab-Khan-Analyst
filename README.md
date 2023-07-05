@@ -46,8 +46,14 @@ __Connect with me:__
 <br>
 
 __Languages and Tools:__
+<div>
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="200" height="100">
+    <img src="https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/038e7a33-75a2-4bc7-8962-d754995f7e1d" alt="Python"       
+      width="200" height="200">
+    <img src="https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/6a350ddb-a216-4493-8b50-943d8b3ae787" alt="Python" 
+      width="100" height="100">
+</div>
 
-[![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org/)
 
 
 
