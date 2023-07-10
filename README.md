@@ -3,6 +3,7 @@
 
 
 <div align="center">
+<div align="center">
 
 # Hi 👋, I'm Sohrab Khan.
 
@@ -10,7 +11,8 @@
 
 <div align="center">
   
-### __A graduate with a focus on data analysis and business intelligence. Skilled in Python, SQL, MS Excel, Power BI and Tableau.__
+### _A graduate with a focus on Data Analysis and Business Intelligence._
+#### _Skilled in Python, SQL, MS Excel, Power BI and Tableau._
 
 </div>
 
@@ -30,14 +32,14 @@
 
 <br>
 
-📫 Email me at: __sohrabkhan2013@gmail.com__
+📫 Email me at:  __sohrabkhan2013@gmail.com__
 
 <br>
 
 __Connect with me:__
 
-- '[__LinkedIn__](https://www.linkedin.com//in//sohrab-khan-58542b16a//)'
-- '[__GitHub__]()'
+  | '[__LinkedIn__](https://www.linkedin.com//in//sohrab-khan-58542b16a//)'  | '[__GitHub__](https://github.com/Sohrab-Khan-Analyst)'  |
+  |-------------|----------|
 
 <br>
 
@@ -53,9 +55,7 @@ __Languages and Tools:__
     <img src="https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/7844b791-34af-4c16-b755-ee00700bd058" alt="tableau" 
       width="100" height="100">
 </div>
+</div>
 
 
-
-
-
-
+</div>
