@@ -1,5 +1,6 @@
 
-![Sohrab Khan_ Banner](https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/11159771-42e7-4d09-92c7-b6a374f85227)
+![SohrabKhan_Banner (Complete)](https://github.com/Sohrab-Khan-Analyst/Sohrab-Khan-Analyst/assets/126482848/ae2cf1f5-70fc-4904-a73c-1f3484cdf71d)
+
 
 
 <div align="center">
