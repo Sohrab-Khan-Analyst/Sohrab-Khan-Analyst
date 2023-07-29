@@ -20,7 +20,7 @@
 <br>
 <br>
 
-📝 Take a look at my __Personal__ Website: https://sohrab-khan-analyst.github.io/sohrab-khan-portfolio.github.io/
+📝 Take a look at my __Personal__ Website: ( https://sohrab-khan-analyst.github.io/----/ )
 
 <br>
 
